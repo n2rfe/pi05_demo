@@ -1,0 +1,6 @@
+[submodule "fairino-python-sdk"]
+	path = fairino-python-sdk
+	url = https://github.com/FAIR-INNOVATION/fairino-python-sdk.git
+[submodule "ros2_ws/src/frcobot_ros2"]
+	path = ros2_ws/src/frcobot_ros2
+	url = https://github.com/FAIR-INNOVATION/frcobot_ros2.git
